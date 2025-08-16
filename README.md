@@ -21,7 +21,7 @@ Here are some of the technologies I've been working with:
 
 Frontend: HTML5, CSS3, JavaScript (ES6+), React
 
-Styling: Tailwind CSS, Bootstrap, SASS
+Styling: Tailwind CSS, Bootstrap
 
 Tools: Git, GitHub, VS Code, Figma
 
