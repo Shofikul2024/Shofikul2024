@@ -14,7 +14,8 @@ I'm a passionate and dedicated web developer with a focus on creating intuitive 
 
 📫 How to reach me: your.email@example.com
 
-😄 Pronouns: He/Him
+😄 Pronouns: He
+
 
 🛠️ My Skills
 Here are some of the technologies I've been working with:
