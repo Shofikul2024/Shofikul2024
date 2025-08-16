@@ -12,7 +12,7 @@ I'm a passionate and dedicated web developer with a focus on creating intuitive 
 
 💬 Ask me about anything related to front-end development!
 
-📫 How to reach me: your.islamshofi942@gmail.com
+📫 How to reach me:islamshofi942@gmail.com
 
 😄 Pronouns: He/Him
 
