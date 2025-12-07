@@ -24,7 +24,7 @@ Frontend: HTML5, CSS3, JavaScript (ES6+), React , python ,Mysql,C ,C++ ,Numpy, P
 
 Styling: Tailwind CSS, Bootstrap
 
-Tools: Git, GitHub, VS Code, Figma
+Tools: Git, GitHub, VS Code, Figma, Pycharm ,Jupyter notebook 
 
 <!-- <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
