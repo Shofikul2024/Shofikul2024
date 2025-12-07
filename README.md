@@ -20,7 +20,7 @@ I'm a passionate and dedicated web developer with a focus on creating intuitive 
 🛠️ My Skills
 Here are some of the technologies I've been working with:
 
-Frontend: HTML5, CSS3, JavaScript (ES6+), React
+Frontend: HTML5, CSS3, JavaScript (ES6+), React , python ,Mysql
 
 Styling: Tailwind CSS, Bootstrap
 
